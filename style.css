@@ -104,6 +104,7 @@
     border-radius: 20px;
     transition: 0.4s;
     cursor: pointer;
+    padding: 5px;
 }
 
 .asideCard:hover{
@@ -122,6 +123,7 @@
     align-items: center;
     background-color: #2a2a2a;
     color: #fafafa;
+    padding: 12px;
 }
 
 .linkToTop{
