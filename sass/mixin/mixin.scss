@@ -1,0 +1,13 @@
+@mixin card-contruction($border, $radius, $transition, $cursor, $padding){
+    border: $border;
+    border-radius: $radius;
+    padding: $padding;
+    cursor: $cursor;
+    transition: $transition;
+}
+
+@mixin img-size($width, $height, $radius){
+    width: $width;
+    height: $height;
+    border-radius: $radius;
+}
